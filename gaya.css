@@ -1,0 +1,34 @@
+body {
+    background-color: #206ec7;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileImage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata {
+   background-color: white;
+    padding-bottom: 70px;
+}
+.fasilitas{
+    padding-bottom: 50px;
+}
+.program{
+    padding-bottom: 50px;
+}
+.contact{
+    background-color: white;
+    padding-bottom: 30px;
+}
